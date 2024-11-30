@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className={styles["footer"]}>
       <a href="https://github.com/shuvra-matrix">
         <img src={gitLogo} alt="github"></img>
-        <span>Shuvra Chakrabarty</span>
+        <span>Darrell Mucheri</span>
       </a>
     </footer>
   );
